@@ -18,9 +18,9 @@ The goal was to create a basic working version of an AI-powered workflow using Z
 - **Zapier Interfaces:** To capture user input.
 - **Formatter by Zapier:** To process text data.
 - **Zapier Tables:** To store and update data throughout the workflow.
-- **Webhooks by Zapier:** To connect to external APIs (e.g., Clearbit API).
+- **Webhooks by Zapier:** To connect to external APIs (Abstract API for profile enrichment).
 - **Web Parser by Zapier:** To scrape the company's website for additional insights.
-- **ChatGPT by OpenAI:** To generate a detailed company report in HTML format.
+- **ChatGPT assistant by OpenAI API:** To analyze company's data and generate a detailed company report in HTML format.
 - **Gmail:** To deliver the final report to the recipient via email.
 
 ---
@@ -32,7 +32,3 @@ The goal was to create a basic working version of an AI-powered workflow using Z
 2. **Sample Email Report:**
    ![email_report.png](email_report.png)
 
----
-
-## 🖇️ Repository Link:
-- [Company Analyzer AI Repository](https://github.com/yourusername/Company-Analyzer-AI)
